@@ -67,7 +67,7 @@ TODO: Add a description for this book.
 ## [jQuery Fundementals](http://jqfundamentals.com/)
 by Rebecca Murphey
 
-TODO: Add a description for this book.
+you need `git` and `nodejs` to be installed, can fork https://github.com/bocoup/jqfundamentals.com 
 
 ---
 
